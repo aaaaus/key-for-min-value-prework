@@ -13,5 +13,9 @@ def key_for_min_value(name_hash)
       lowest_item = item
     end
   end
-  
+   if lowest_item == ""
+    return nil 
+  else
+    lowest item
+  end
 end
